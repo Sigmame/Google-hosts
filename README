@@ -1,0 +1,10 @@
+This repository is host for google host in china to let people can visit
+google.
+The hosts file include google-ipv4-hosts
+and google-ipv6-host
+The ipv4-hosts is forked from:
+https://kelvin-mirex-svn.googlecode.com/svn/trunk/ipv4-hosts/hosts
+while the ipv6-hosts is forked from:
+https://docs.google.com/Doc?docid=0ARhAbsvps1PlZGZrZG14bnRfNjFkOWNrOWZmcQ
+if you want add more hosts,you can read this article first:
+http://hi.baidu.com/gxd2980449/blog/item/a72722b73f9cf1ee30add164.html
